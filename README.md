@@ -28,7 +28,7 @@ Print the input and reversed string along with the whether palindrom or not.
 ### Step 7:
 End of the Program.
 ## Program:
-```
+```c#
 using System;
 using System.Collections.Generic;
 using System.Linq;
